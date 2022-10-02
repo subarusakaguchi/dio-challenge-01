@@ -33,8 +33,8 @@ Total Progress: **100%**
 
 | Course   | Progress       | Date of conclusion                           | Status |
 | :---------- | :--------- | :---------------------------------- | :--------- |
-| Introdução à Plataforma Java | 0% | - | In Progress
-| Ambiente de Desenvolvimento Java | 0% |  -  | To do
+| Introdução à Plataforma Java | 100% | - | Done
+| Ambiente de Desenvolvimento Java | 0% |  -  | In Progress
 | Aprendendo a Sintaxe Java | 0% |  -  | To do
 | Lógica Condicional e Controle de Fluxos<br/>em Java | 0% | - | To do
 | Estruturas de Repetição e Arrays em Java) | 0% | - | To do
